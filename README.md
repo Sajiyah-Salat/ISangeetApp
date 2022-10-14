@@ -10,7 +10,7 @@
 ### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
  ## Run this App on [Android-Studio](https://developer.android.com/studio?gclid=CjwKCAjw7p6aBhBiEiwA83fGur88lfnQ7acmy0NCFx613Vt8G9GrTpld2-xCnpO4A3qZW9TaR1xXtxoCnegQAvD_BwE&gclsrc=aw.ds)
  Still you dont get it DM me [here](https://www.linkedin.com/in/sajiya-salat-0a2a78245/)
-This is a beginner-friendly repo, where you can be as much creative as you can with HTML, CSS and JS.
+This is a beginner-friendly repo, where you can be as much creative as you can with Java.
 
 > **Rules for the Contribution.**
 1. Issues will be assigned on **First Come First Service Basis**.
@@ -25,6 +25,6 @@ Contributions are what make the open source community such an amazing place to b
 
 1. Fork the Project
 2. Create your folder (`git checkout -b dev/Feature`)
-3. Commit your Changes (`git commit -m 'Add some cool Feature or Blog'`)
-4. Push to the Branch (`git push origin web/Feature`)
+3. Commit your Changes (`git commit -m 'Add some cool Feature oor Quizzes'`)
+4. Push to the Branch (`git push origin app/Feature`)
 5. Open a Pull Request
