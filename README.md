@@ -24,7 +24,7 @@ This is a beginner-friendly repo, where you can be as much creative as you can w
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your folder (`git checkout -b dev/Feature`)
+2. Create your folder (`git checkout -b app/Feature`)
 3. Commit your Changes (`git commit -m 'Add some cool Feature oor Quizzes'`)
 4. Push to the Branch (`git push origin app/Feature`)
 5. Open a Pull Request
