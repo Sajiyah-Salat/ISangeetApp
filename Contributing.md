@@ -1,5 +1,7 @@
 # Music-Player
 ## This is a simple Music-Player made with java language and a use of Android Studio.You can run this in your local machine using android Studio. Any changes made for the improvement of application is appreciated.
+ 
+ >### There is some bug which result in crashing of application.Your Help in Finding the bug is highly appreciated.
 # BlogWeb
  ## This repo will be partcipating in the [Hacktoberfest](https://hacktoberfest.com/) 2022.
 
@@ -25,6 +27,6 @@ Contributions are what make the open source community such an amazing place to b
 
 1. Fork the Project
 2. Create your folder (`git checkout -b app/Feature`)
-3. Commit your Changes (`git commit -m 'Add some cool Feature oor Quizzes'`)
+3. Commit your Changes (`git commit -m 'Add some cool Feature or Quizzes'`)
 4. Push to the Branch (`git push origin app/Feature`)
 5. Open a Pull Request
